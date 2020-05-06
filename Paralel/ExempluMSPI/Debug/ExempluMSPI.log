@@ -1,0 +1,10 @@
+﻿  Paralel.cpp
+d:\info\an3-sem2\ppt\polysum\secvential\exemplumspi\paralel.cpp(47): warning C4018: '<': signed/unsigned mismatch
+d:\info\an3-sem2\ppt\polysum\secvential\exemplumspi\paralel.cpp(92): warning C4018: '<': signed/unsigned mismatch
+d:\info\an3-sem2\ppt\polysum\secvential\exemplumspi\paralel.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  pch.cpp
+  Secvential.cpp
+  Helpers.cpp
+d:\info\an3-sem2\ppt\polysum\secvential\exemplumspi\helpers.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ExempluMSPI.vcxproj -> D:\INFO\AN3-SEM2\ppt\PolySum\Secvential\Debug\Secvential.exe
